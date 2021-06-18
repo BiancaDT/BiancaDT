@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BiancaDT.
 - 👀 I’m interested in Guidance Navigation & Control, Robotics, Autonomous Systems.
-- 🌱 I’m currently developing my skillset towards aerospace and space industry.
-- 💞️ I’m looking to collaborate on space related projects. 
+- 🌱 I’m currently developing my skillset towards autonomous systems, aerospace and space industry.
+- 💞️ I’m looking to collaborate on robotics, self driving cars and space related projects. 
 - 📫 How to reach me: https://www.linkedin.com/in/biancaturneanu/
 
 <!---

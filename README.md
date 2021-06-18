@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BiancaDT.
+- 👋 Hi, I’m Bianca Diana.
 - 👀 I’m interested in Guidance Navigation & Control, Robotics, Autonomous Systems.
 - 🌱 I’m currently developing my skillset towards autonomous systems, aerospace and space industry.
 - 💞️ I’m looking to collaborate on robotics, self driving cars and space related projects. 

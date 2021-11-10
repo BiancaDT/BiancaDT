@@ -1,8 +1,8 @@
 ###  Hej, I’m Bianca Diana :octocat: 
 
 - 👀 I’m interested in Autonomous Systems, Robotics, Spacecraft.
-- 🌱 I’m currently developing my skillset towards autonomous systems and space industry, control engineering side.
-- 💞️ I’m looking to collaborate on robotics, satellite and space related projects. 
+- 🌱 Currently developing my skillset towards autonomous systems and space industry, control engineering side.
+- 💞️ Looking to collaborate on robotics, satellite and space related projects. 
 
 ### Connect with me:
 

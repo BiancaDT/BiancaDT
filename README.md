@@ -2,7 +2,8 @@
 - 👀 I’m interested in Autonomous Systems, Robotics, Spacecraft.
 - 🌱 I’m currently developing my skillset towards autonomous systems and space industry, control engineering side.
 - 💞️ I’m looking to collaborate on robotics, self driving cars and space related projects. 
-- 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="biancaturneanu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/biancaturneanu?trk=profile-badge">Bianca Diana Turneanu</a></div> 
+- 📫 How to reach me: 
+- <img src="https://img.icons8.com/color/20/000000/linkedin.png"/> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="biancaturneanu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/biancaturneanu?trk=profile-badge">Bianca Diana Turneanu</a></div> 
 
 
 

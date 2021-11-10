@@ -2,9 +2,7 @@
 - 👀 I’m interested in Autonomous Systems, Robotics, Spacecraft.
 - 🌱 I’m currently developing my skillset towards autonomous systems and space industry, control engineering side.
 - 💞️ I’m looking to collaborate on robotics, self driving cars and space related projects. 
-- 📫 How to reach me: 
-
-[LinkedIn](https://dk.linkedin.com/in/biancaturneanu)
+- 📫 How to reach me: [My LinkedIn profile](https://dk.linkedin.com/in/biancaturneanu)
               
 <!---
 BiancaDT/BiancaDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

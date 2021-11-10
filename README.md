@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on robotics, self driving cars and space related projects. 
 - 📫 How to reach me: 
 
-[LinkedIn](<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-vanity="biancaturneanu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/biancaturneanu?trk=profile-badge">Bianca Diana Turneanu</a></div>) 
-
+[LinkedIn](https://dk.linkedin.com/in/biancaturneanu)
               
 <!---
 BiancaDT/BiancaDT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,7 +12,7 @@
 
 </br></br>
 
-Buy me a coffee (or book!):
+If you want to buy me a coffee (or book!):
 
 [<img align="left" alt="BiancaDT | Coffee" width="27px" src="https://www.freepnglogos.com/uploads/coffee-png/coffee-and-beans-transparent-png-stickpng-1.png" />][coffee]
 
